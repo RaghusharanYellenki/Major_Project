@@ -1,16 +1,16 @@
-# majorproject
+# majorproject-NEWS application
 
-A new Flutter project.
+PROJECT OVERVIEW
 
-## Getting Started
+1. WELCOME screen with signin button
+2. LOGIN and REGISTER screens with FIREBASE authentication
+3. GOOGLE signin button with FIREBASE authentication
+4. UI with Widgets
+5. Navigation Drawer
+6. LISTTILE buttons
+7. Payment Gateway by RAZORPAY
+8. NEWSAPP with category and article views
+9. NewsAPI.org
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
